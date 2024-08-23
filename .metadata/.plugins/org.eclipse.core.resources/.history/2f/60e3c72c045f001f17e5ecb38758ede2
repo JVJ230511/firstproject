@@ -1,0 +1,11 @@
+package testng;
+
+import org.testng.annotations.Test;
+
+public class simpleclass {
+@Test
+public void start()
+{
+	System.out.println("ss started");
+}
+}
